@@ -161,8 +161,8 @@ LeNEt architecture was chosen because:
 
 Here are five German traffic signs that I found on the web:
 
-![Traffic Sign 1][image4] ![[Traffic Sign 2][image5] ![Traffic Sign 3][image6] 
-![[Traffic Sign 4][image7] ![[Traffic Sign 5][image8]
+![Traffic Sign 1][image4] ![Traffic Sign 2][image5] ![Traffic Sign 3][image6] 
+![Traffic Sign 4][image7] ![Traffic Sign 5][image8]
 
 
 
